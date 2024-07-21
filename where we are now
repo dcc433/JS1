@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<!--hi-->
+<script type="text/javascript">
+<!--
+function tooeasy(x,y){
+c=x+y;
+return c;
+}
+document.write(tooeasy(1,2));
+-->
+</script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<!--hi-->
+<script type="text/javascript">
+<!--
+function first(){
+document.write("the first");
+}
+function second(){
+document.write("the second");
+}
+function start(){
+first();
+second();
+}
+start();
+-->
+</script>
+</body>
+</html>
